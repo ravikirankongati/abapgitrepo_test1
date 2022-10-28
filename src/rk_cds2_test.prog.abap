@@ -6,6 +6,8 @@
 REPORT RK_CDS2_TEST.
 
 
+
+" added comment
 PARAMETERS p_cds type DDLNAME.
 
 
